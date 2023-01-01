@@ -1,3 +1,5 @@
 # B#-Programming-Language
 
-A new project I'm working on, it is a programming language called B++ with which at the moment, you can't create any software with. It is just to play around in until i update it.
+A programming language built for more advanced coding.
+
+This is the first version of it and its not much useful at the moment.
