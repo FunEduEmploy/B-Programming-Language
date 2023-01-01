@@ -5,8 +5,6 @@
 
 **FULLSCREEN RECOMMENDED**
 
-For some reason, windows detects the program as a virus and I can't figure out why so if you see a message popup that the program might be a virus, click "more info" or however its called on your pc and run the program.
-
 # = Not case sensitive
 #* = Case sensitive
 
